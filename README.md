@@ -1,3 +1,5 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+
 <h1 align="center">### Hola, I'm Shlok Saraogi! 👋</h1>
 <h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
